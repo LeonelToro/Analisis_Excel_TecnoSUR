@@ -67,7 +67,7 @@ Esta combinación permite automatizar la generación de datos y explotar al máx
 
 ### Reporte Ejecutivo  
 > KPIs estratégicos, márgenes, ganancias netas, cumplimiento de objetivos.  
-![Dashboard Ejecutivo](./dashboard-ejecutivo.png)  
+![Dashboard Ejecutivo](./reporte-ejecutivo.png)  
 
 ### Dashboard Operativo  
 > Análisis por vendedor, producto, stock crítico y evolución de ventas.  
@@ -163,7 +163,7 @@ This combination allows automating data generation and fully leveraging Excel’
 
 ### Executive Report  
 > Strategic KPIs, margins, net profits, goal fulfillment.  
-![Executive Dashboard](./dashboard-ejecutivo.png)  
+![Executive Dashboard](./reporte-ejecutivo.png)  
 
 ### Operational Dashboard  
 > Analysis by seller, product, critical stock, and sales evolution.  

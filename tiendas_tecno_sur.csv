@@ -1,0 +1,6 @@
+﻿TiendaID,Nombre,Ciudad,Provincia,FechaApertura,TipoTienda,MetrosCuadrados,ManagerID
+1,TecnoSur Flores,CABA,CABA,2019-05-15,Local grande,320,4
+2,TecnoSur Belgrano,CABA,CABA,2021-08-01,Local mediano,250,12
+3,TecnoSur La Plata,La Plata,Buenos Aires,2020-03-10,Local grande,300,17
+4,TecnoSur Mar del Plata,Mar del Plata,Buenos Aires,2022-02-20,Local chico,200,58
+5,TecnoSur Rosario,Rosario,Santa Fe,2018-11-30,Local grande,350,61

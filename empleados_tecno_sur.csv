@@ -1,0 +1,72 @@
+﻿EmpleadoID,NombreEmpleado,Rol,Turno,TiendaID,FechaIngreso,FechaEgreso
+1,Lucía Morales,Cajero,Mañana,1,2018-12-19,2024-05-18
+2,Sofia Nuñez,Deposito,Mañana,1,2019-03-01,
+3,Benjamin Garcia,Cajero,Mañana,2,2020-03-07,2021-09-07
+4,Geronimo Sanchez,Encargado,Mañana,1,2020-03-25,
+5,Martina Cordoba,Cajero,Mañana,3,2020-04-05,
+6,Santino Alvarez,Deposito,Tarde,1,2020-04-14,
+7,Catalina Rodriguez,Vendedor,Mañana,1,2020-06-10,
+8,Octavio Rodriguez,Vendedor,Mañana,2,2020-08-27,2024-12-17
+9,Malena Rodriguez,Vendedor,Tarde,3,2020-09-13,
+10,Agustin Herrera,Cajero,Mañana,1,2020-09-14,
+11,Juan Ignacio Ortiz,Vendedor,Mañana,2,2020-09-29,
+12,Milagros Lopez,Encargado,Mañana,2,2021-01-22,
+13,Thiago Lionel Romero,Deposito,Tarde,2,2021-02-03,
+14,Juan Martin Rios,Deposito,Tarde,2,2021-02-14,
+15,Maite Fernandez,Vendedor,Tarde,2,2021-03-05,2021-08-14
+16,Joaquin Ledesma,Vendedor,Mañana,2,2021-03-08,2023-03-31
+17,Juan Francisco Gonzalez,Encargado,Mañana,3,2021-03-24,
+18,Ian Coronel,Deposito,Mañana,2,2021-05-05,
+19,Mateo Ezequiel Hernandez,Deposito,Mañana,3,2021-05-16,
+20,Juliana Blanco,Cajero,Tarde,2,2021-05-31,
+21,Ignacio Romero,Cajero,Tarde,1,2021-06-16,
+22,Luca Castillo,Deposito,Mañana,1,2021-07-07,2022-03-25
+23,Elena Martin,Cajero,Mañana,2,2021-07-30,2024-05-12
+24,Simon Godoy,Cajero,Tarde,3,2021-08-05,
+25,Manuel Medina,Vendedor,Tarde,2,2021-08-25,2021-09-07
+26,Agustina Silva,Vendedor,Mañana,2,2021-09-10,
+27,Benjamin Rodriguez,Vendedor,Tarde,1,2021-09-17,
+28,Benjamin Diaz,Deposito,Tarde,4,2021-10-23,
+29,Renzo Ortiz,Vendedor,Mañana,3,2021-11-17,
+30,Simon Carrizo,Vendedor,Mañana,4,2021-12-21,
+31,Julieta Gomez,Cajero,Mañana,2,2021-12-30,
+32,Facundo Quiroga,Deposito,Mañana,2,2022-01-07,
+33,Mateo Benjamin Guzman,Vendedor,Mañana,5,2022-02-22,
+34,Ignacio Gutierrez,Deposito,Tarde,5,2022-02-27,
+35,Luciano Sanchez,Vendedor,Mañana,4,2022-03-12,
+36,Sofia Cordoba,Vendedor,Tarde,1,2022-04-02,
+37,Thiago Emanuel Barrios,Cajero,Mañana,4,2022-04-19,
+38,Gael Duarte,Deposito,Mañana,1,2022-06-13,
+39,Thiago Benjamin Gonzalez,Vendedor,Tarde,3,2022-06-25,
+40,Joaquin Guzman,Deposito,Mañana,4,2022-07-15,
+41,Maria Victoria Gonzalez,Vendedor,Tarde,3,2022-07-22,2024-02-12
+42,Ambar Pereyra,Vendedor,Tarde,4,2022-08-08,
+43,Delfina Martin,Vendedor,Mañana,5,2022-08-14,
+44,Francisco Flores,Deposito,Tarde,4,2022-08-16,
+45,Santiago Gonzalez,Deposito,Tarde,5,2022-10-01,
+46,Santino Cabrera,Deposito,Tarde,3,2022-10-05,2024-03-27
+47,Vicente Fernandez,Vendedor,Tarde,2,2022-10-29,
+48,Kiara Aguero,Cajero,Mañana,5,2022-11-04,
+49,Santiago Moreno,Deposito,Mañana,4,2022-12-03,
+50,Miguel Angel Fernandez,Vendedor,Mañana,1,2022-12-09,2023-12-26
+51,Luciano Gomez,Deposito,Mañana,3,2022-12-22,
+52,Mia Morena Cardozo,Vendedor,Mañana,1,2023-01-15,
+53,Luciano Sosa,Deposito,Tarde,3,2023-02-23,
+54,Isabella Gomez,Cajero,Tarde,4,2023-03-26,
+55,Thiago Nicolas Morales,Vendedor,Tarde,5,2023-04-07,
+56,Juan Martin Medina,Vendedor,Mañana,3,2023-05-05,
+57,Thiago Joaquin Sosa,Vendedor,Tarde,5,2023-06-01,2024-01-28
+58,Santino Gabriel Martinez,Encargado,Mañana,4,2023-06-11,
+59,Emilia Aguirre,Vendedor,Tarde,4,2023-07-01,
+60,Facundo Mendoza,Deposito,Tarde,1,2023-07-05,
+61,Guillermina Sanchez,Encargado,Mañana,5,2023-07-19,
+62,Renata Fernandez,Deposito,Mañana,5,2023-07-29,
+63,Juan Francisco Vazquez,Vendedor,Tarde,4,2023-08-22,2023-09-02
+64,Agustin Torres,Deposito,Mañana,5,2023-08-28,
+65,Pedro Figueroa,Deposito,Mañana,5,2023-10-27,2024-04-25
+66,Geronimo Ortiz,Vendedor,Tarde,2,2023-11-03,
+67,Francesca Mansilla,Vendedor,Tarde,5,2023-12-02,2024-12-25
+68,Isabella Gomez,Cajero,Tarde,5,2023-12-03,
+69,Octavio Sosa,Deposito,Tarde,3,2023-12-18,
+70,Felicitas Sanchez,Vendedor,Tarde,5,2023-12-22,
+71,Olivia Garcia,Vendedor,Mañana,5,2023-12-26,2024-12-04

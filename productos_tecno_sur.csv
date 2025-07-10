@@ -1,0 +1,101 @@
+﻿ProductoID,Nombre,Categoria,TipoProducto,Marca,PrecioUnitario,CostoActual
+1,Noblex Televisor TG412,Audio/Video,Televisor,Noblex,400000.0,258200.0
+2,Sony Televisor UQ166,Audio/Video,Televisor,Sony,649000.0,491200.0
+3,Drean Plancha DV242,Limpieza,Plancha,Drean,32000.0,23400.0
+4,Atma Cocina PM257,Cocina,Cocina,Atma,473000.0,286000.0
+5,BGH Aire acondicionado CZ178,Climatización,Aire acondicionado,BGH,498000.0,346100.0
+6,BGH Cocina PF851,Cocina,Cocina,BGH,212000.0,141200.0
+7,BGH Pava eléctrica XK723,Cocina,Pava eléctrica,BGH,40000.0,26800.0
+8,Philco Termotanque NT491,Climatización,Termotanque,Philco,210000.0,161300.0
+9,Electrolux Lavavajillas OI011,Limpieza,Lavavajillas,Electrolux,550000.0,436900.0
+10,Sony Monitor WV285,Audio/Video,Monitor,Sony,293000.0,223300.0
+11,BGH Cocina JI612,Cocina,Cocina,BGH,395000.0,274200.0
+12,Philco Heladera RR253,Cocina,Heladera,Philco,669000.0,440300.0
+13,Drean Lavarropas FA399,Limpieza,Lavarropas,Drean,526000.0,344800.0
+14,LG Barra de sonido BH015,Audio/Video,Barra de sonido,LG,105000.0,70500.0
+15,LG Barra de sonido DH603,Audio/Video,Barra de sonido,LG,182000.0,116700.0
+16,Philco Ventilador HN835,Climatización,Ventilador,Philco,63000.0,47000.0
+17,Whirlpool Pava eléctrica XV934,Cocina,Pava eléctrica,Whirlpool,31000.0,23100.0
+18,LG Equipo de sonido UT832,Audio/Video,Equipo de sonido,LG,170000.0,105400.0
+19,Philco Anafe GQ470,Cocina,Anafe,Philco,249000.0,157800.0
+20,Philco Heladera JE766,Cocina,Heladera,Philco,694000.0,423600.0
+21,Electra Ventilador MQ714,Climatización,Ventilador,Electra,43000.0,31400.0
+22,BGH Ventilador VB443,Climatización,Ventilador,BGH,33000.0,22200.0
+23,Electrolux Aspiradora robot PY134,Limpieza,Aspiradora robot,Electrolux,449000.0,341800.0
+24,Samsung Aire acondicionado IR517,Climatización,Aire acondicionado,Samsung,575000.0,384100.0
+25,BGH Termotanque NT039,Climatización,Termotanque,BGH,157000.0,108200.0
+26,Samsung Aire acondicionado TM324,Climatización,Aire acondicionado,Samsung,772000.0,473600.0
+27,Electrolux Plancha ZI575,Limpieza,Plancha,Electrolux,39000.0,27700.0
+28,Philips Equipo de sonido VV265,Audio/Video,Equipo de sonido,Philips,210000.0,146000.0
+29,Whirlpool Microondas UE311,Cocina,Microondas,Whirlpool,158000.0,119800.0
+30,Noblex Monitor PD104,Audio/Video,Monitor,Noblex,261000.0,179000.0
+31,Liliana Anafe JK649,Cocina,Anafe,Liliana,130000.0,88400.0
+32,Drean Plancha JY678,Limpieza,Plancha,Drean,34000.0,21500.0
+33,LG Lavarropas ZR918,Limpieza,Lavarropas,LG,285000.0,175900.0
+34,Samsung Ventilador DJ282,Climatización,Ventilador,Samsung,76000.0,53500.0
+35,LG Televisor DW745,Audio/Video,Televisor,LG,645000.0,503300.0
+36,Samsung Aire acondicionado DU668,Climatización,Aire acondicionado,Samsung,796000.0,626800.0
+37,Whirlpool Lavarropas QE847,Limpieza,Lavarropas,Whirlpool,502000.0,355400.0
+38,Sony Monitor HM484,Audio/Video,Monitor,Sony,133000.0,95600.0
+39,Philips Equipo de sonido JU678,Audio/Video,Equipo de sonido,Philips,332000.0,246000.0
+40,Beko Aspiradora robot SN786,Limpieza,Aspiradora robot,Beko,464000.0,353900.0
+41,Beko Lavavajillas QW470,Limpieza,Lavavajillas,Beko,490000.0,322600.0
+42,Electra Calefactor BW428,Climatización,Calefactor,Electra,88000.0,58200.0
+43,Sony Monitor FT401,Audio/Video,Monitor,Sony,315000.0,224200.0
+44,BGH Aire acondicionado NM581,Climatización,Aire acondicionado,BGH,464000.0,278800.0
+45,Noblex Equipo de sonido PT590,Audio/Video,Equipo de sonido,Noblex,399000.0,292600.0
+46,Electrolux Lavarropas VQ697,Limpieza,Lavarropas,Electrolux,575000.0,366900.0
+47,Whirlpool Pava eléctrica SM492,Cocina,Pava eléctrica,Whirlpool,40000.0,30300.0
+48,Sony Barra de sonido DN914,Audio/Video,Barra de sonido,Sony,152000.0,116500.0
+49,Beko Lavarropas BL555,Limpieza,Lavarropas,Beko,532000.0,382200.0
+50,Philco Microondas ED284,Cocina,Microondas,Philco,176000.0,126600.0
+51,LG Plancha SK398,Limpieza,Plancha,LG,35000.0,24100.0
+52,Liliana Tostadora YY205,Cocina,Tostadora,Liliana,26000.0,19500.0
+53,Philips Monitor JQ393,Audio/Video,Monitor,Philips,328000.0,200400.0
+54,Noblex Equipo de sonido OA745,Audio/Video,Equipo de sonido,Noblex,202000.0,131500.0
+55,Beko Lavavajillas TM158,Limpieza,Lavavajillas,Beko,563000.0,424700.0
+56,Samsung Termotanque IC653,Climatización,Termotanque,Samsung,123000.0,79600.0
+57,Philco Tostadora VM125,Cocina,Tostadora,Philco,16000.0,11800.0
+58,Drean Aspiradora ZX773,Limpieza,Aspiradora,Drean,98000.0,67700.0
+59,Sony Barra de sonido UQ501,Audio/Video,Barra de sonido,Sony,88000.0,53000.0
+60,BGH Termotanque TI604,Climatización,Termotanque,BGH,174000.0,126700.0
+61,LG Barra de sonido TG697,Audio/Video,Barra de sonido,LG,96000.0,62400.0
+62,BGH Termotanque AA737,Climatización,Termotanque,BGH,132000.0,92800.0
+63,BGH Termotanque KH076,Climatización,Termotanque,BGH,206000.0,125900.0
+64,Beko Lavavajillas ZO827,Limpieza,Lavavajillas,Beko,463000.0,341000.0
+65,Philips Monitor IF537,Audio/Video,Monitor,Philips,218000.0,168600.0
+66,Samsung Televisor UX574,Audio/Video,Televisor,Samsung,342000.0,241300.0
+67,Drean Plancha ER117,Limpieza,Plancha,Drean,43000.0,32500.0
+68,Beko Aspiradora AQ409,Limpieza,Aspiradora,Beko,218000.0,132700.0
+69,Liliana Heladera HV743,Cocina,Heladera,Liliana,431000.0,291200.0
+70,Whirlpool Cocina RM139,Cocina,Cocina,Whirlpool,291000.0,232000.0
+71,Drean Aspiradora AZ020,Limpieza,Aspiradora,Drean,93000.0,59000.0
+72,Whirlpool Heladera KF095,Cocina,Heladera,Whirlpool,817000.0,598400.0
+73,Beko Plancha VT447,Limpieza,Plancha,Beko,27000.0,19200.0
+74,BGH Calefactor XZ593,Climatización,Calefactor,BGH,138000.0,90900.0
+75,Electrolux Plancha EG794,Limpieza,Plancha,Electrolux,29000.0,22800.0
+76,Samsung Barra de sonido JG903,Audio/Video,Barra de sonido,Samsung,177000.0,107200.0
+77,Atma Cocina IS462,Cocina,Cocina,Atma,307000.0,238900.0
+78,Noblex Equipo de sonido UX277,Audio/Video,Equipo de sonido,Noblex,366000.0,230500.0
+79,Sony Monitor ZJ016,Audio/Video,Monitor,Sony,342000.0,248800.0
+80,Philips Equipo de sonido MA084,Audio/Video,Equipo de sonido,Philips,330000.0,235400.0
+81,LG Lavavajillas JR817,Limpieza,Lavavajillas,LG,356000.0,220400.0
+82,Philco Tostadora JP303,Cocina,Tostadora,Philco,21000.0,15900.0
+83,Atma Microondas EL867,Cocina,Microondas,Atma,103000.0,69500.0
+84,BGH Termotanque WY045,Climatización,Termotanque,BGH,172000.0,134300.0
+85,LG Calefactor KT047,Climatización,Calefactor,LG,109000.0,72500.0
+86,Electrolux Aspiradora OF916,Limpieza,Aspiradora,Electrolux,119000.0,93900.0
+87,Electrolux Plancha GA728,Limpieza,Plancha,Electrolux,30000.0,18600.0
+88,Drean Aspiradora RX671,Limpieza,Aspiradora,Drean,152000.0,111700.0
+89,BGH Ventilador TS845,Climatización,Ventilador,BGH,30000.0,18900.0
+90,LG Termotanque VZ701,Climatización,Termotanque,LG,202000.0,145700.0
+91,Electrolux Lavavajillas XN194,Limpieza,Lavavajillas,Electrolux,491000.0,363500.0
+92,LG Aire acondicionado LZ501,Climatización,Aire acondicionado,LG,872000.0,568400.0
+93,LG Aspiradora robot CA742,Limpieza,Aspiradora robot,LG,284000.0,226800.0
+94,Beko Plancha GH161,Limpieza,Plancha,Beko,32000.0,23700.0
+95,LG Barra de sonido PU814,Audio/Video,Barra de sonido,LG,187000.0,113600.0
+96,Liliana Cocina VN564,Cocina,Cocina,Liliana,365000.0,285100.0
+97,LG Barra de sonido NU910,Audio/Video,Barra de sonido,LG,184000.0,127700.0
+98,LG Aire acondicionado PK050,Climatización,Aire acondicionado,LG,759000.0,554900.0
+99,Electrolux Lavavajillas HU985,Limpieza,Lavavajillas,Electrolux,660000.0,526300.0
+100,Drean Aspiradora robot TG189,Limpieza,Aspiradora robot,Drean,383000.0,270500.0
